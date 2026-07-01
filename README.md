@@ -33,4 +33,9 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 ## Skills
 
-Python, R, Bash/Shell, SQL, scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, Optuna, Seurat, GROMACS, MDAnalysis, network biology, structural bioinformatics. 
+-	Programming: Python, R, Bash/Shell scripting, SQL; experienced in large-scale biological data processing, statistical analysis, visualization, and reproducible computational workflows.
+-	Machine Learning: scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, Optuna; feature engineering, feature selection, cross-validation, ensemble/stacking models, model interpretation, ROC/PR/calibration analysis.
+-	Bioinformatics: Mutation data curation, sequence conservation and coevolution analysis, GO/KEGG enrichment, ssGSEA/module scoring, consensus clustering, survival analysis, tumor mutation analysis, single-cell transcriptomic analysis; familiar with limma, sva/ComBat, ConsensusClusterPlus, clusterProfiler, GSVA, maftools, Seurat, and AUCell.
+-	Structural Bioinformatics & Molecular Dynamics: AlphaFold, PyMOL, GROMACS, MDAnalysis, MD-TASK, FoldX, fpocket; RMSD/RMSF, DCCM, dynamic residue networks, shortest-pathway/allosteric communication analysis, protein pocket analysis, and mutation mechanism interpretation.
+-	Network Biology: STRING and physical PPI networks, residue interaction networks, network topology analysis, Louvain/Walktrap community detection, disease module identification, and network-based drug repositioning.
+
