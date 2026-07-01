@@ -13,7 +13,7 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 ## Featured Projects
 
-- [PTEN cancer/ASD mutational mechanisms](https://github.com/LilyYNY/pten-cancer-asd-mutational-mechanisms) Contributior: Miao Yang, jinran Wang
+- [PTEN cancer/ASD mutational mechanisms](https://github.com/LilyYNY/pten-cancer-asd-mutational-mechanisms) Contributior: Miao Yang, Jinran Wang
 - [protPheMut interpretable mutation analysis](https://github.com/LilyYNY/protphemut-interpretable-mutation-analysis) Contributior: Jinran Wang, Miao Yang
 - [Pathway allosteric mutations and molecular dynamics](https://github.com/LilyYNY/pathway-allosteric-mutations-md) Contributior: Miao Yang
 - [LUAD network drug repositioning](https://github.com/LilyYNY/luad-network-drug-repositioning) Contributior: Miao Yang
