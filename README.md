@@ -25,6 +25,9 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 - Wang J#, Yang M#, Zong C, Li Y, Verkhivker G, Xiao F, Hu G. protPheMut: An Interpretable Machine Learning Tool for Classification of Cancer and Neurodevelopmental Disorders in Human Missense Mutations. *Journal of Chemical Information and Modeling*, 2025, 65(15): 8375-8384.
 
+##Software
+- .[A Subtype-Specific Network Module Identification and Drug Repositioning System Software V1.0. Software Copyright, Registration No. 2025SR142352, 2025.](https://github.com/LilyYNY/subnetDR)
+
 # Equal contribution.
 
 ## Skills
