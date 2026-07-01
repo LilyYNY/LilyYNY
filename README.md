@@ -6,7 +6,7 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 ## Research Interests
 
-- Interpretable machine learning for human missense mutation interpretation
+- Interpretable machine learning for missense mutation interpretation
 - Structural bioinformatics and molecular dynamics of disease-associated mutations
 - Network medicine and AI-driven drug repositioning
 - Single-cell transcriptomics in cancer biology
