@@ -31,7 +31,7 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 ## Software
 - .[A Subtype-Specific Network Module Identification and Drug Repositioning System Software V1.0. Software Copyright, Registration No. 2025SR142352, 2025.](https://github.com/LilyYNY/subnetDR) Contributior: Miao Yang
-- .[ProPheMut](http://netprotlab.com/protPheMut/) Contributior: Jingran Wang, Miao Yang
+- .[ProtPheMut](http://netprotlab.com/protPheMut/) Contributior: Jingran Wang, Miao Yang
 
 ## Skills
 
