@@ -13,8 +13,8 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 ## Featured Projects
 
-- [PTEN cancer/ASD mutational mechanisms](https://github.com/LilyYNY/pten-cancer-asd-mutational-mechanisms) Contributior: Miao Yang, Jinran Wang
-- [protPheMut interpretable mutation analysis](https://github.com/LilyYNY/protphemut-interpretable-mutation-analysis) Contributior: Jinran Wang, Miao Yang
+- [PTEN cancer/ASD mutational mechanisms](https://github.com/LilyYNY/pten-cancer-asd-mutational-mechanisms) Contributior: Miao Yang, Jingran Wang
+- [protPheMut interpretable mutation analysis](https://github.com/LilyYNY/protphemut-interpretable-mutation-analysis) Contributior: Jingran Wang, Miao Yang
 - [Pathway allosteric mutations and molecular dynamics](https://github.com/LilyYNY/pathway-allosteric-mutations-md) Contributior: Miao Yang
 - [LUAD network drug repositioning](https://github.com/LilyYNY/luad-network-drug-repositioning) Contributior: Miao Yang
 - [Ovarian cancer single-cell analysis](https://github.com/LilyYNY/ovarian-cancer-single-cell-analysis) Contributior: Miao Yang
@@ -31,7 +31,7 @@ My research focuses on interpretable machine learning, missense mutation interpr
 
 ## Software
 - .[A Subtype-Specific Network Module Identification and Drug Repositioning System Software V1.0. Software Copyright, Registration No. 2025SR142352, 2025.](https://github.com/LilyYNY/subnetDR) Contributior: Miao Yang
-- .[ProPheMut](http://netprotlab.com/protPheMut/) Contributior: Jinran Wang, Miao Yang
+- .[ProPheMut](http://netprotlab.com/protPheMut/) Contributior: Jingran Wang, Miao Yang
 
 ## Skills
 
